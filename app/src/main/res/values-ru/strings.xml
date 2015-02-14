@@ -42,7 +42,7 @@
   <string name="addfriend_own_key">Невозможно добавлять самого себя</string>
   <string name="addfriend_friend_pin_title">Введите pin друга</string>
   <string name="addfriend_friend_pin_text">Введите pin друга</string>
-  <string name="addfriend_default_message">Привет! Прими, пожалуйста, мой запрос на добавление друзья</string>
+  <string name="addfriend_default_message">Привет! Прими, пожалуйста, мой запрос на добавлени в друзья</string>
   <!--Friend Profile Activity-->
   <string name="friend_profile_nick">Ник</string>
   <string name="friend_profile_key">Tox ID</string>
@@ -56,7 +56,7 @@
   <string name="friendrequest_reject">Отклонить</string>
   <string name="friend_request">Новый запрос в друзья</string>
   <!--Contacts Fragment-->
-  <string name="friend_action_profile">Профиль</string>
+  <string name=, "friend_action_profile">Профиль</string>
   <string name="friend_action_delete">Удалить друга</string>
   <string name="friend_action_delete_chat">Удалить историю чата</string>
   <string name="friend_action_block">Заблокировать</string>
@@ -71,7 +71,7 @@
   <!--Delete Chat Logs Dialog-->
   <string name="friend_action_delete_chat_confirmation">Вы уверены, что хотите удалить историю чата?</string>
   <!--Block Friend Dialog-->
-  <string name="friend_action_block_friend_confirmation">Блокировка пользователя, удалит его, из вашего списка друзей и вы больше не будет получать от него запросов на добавление в друзья.
+  <string name="friend_action_block_friend_confirmation">Блокировка пользователя удалит его, из вашего списка друзей и вы больше не будет получать от него запросов на добавление в друзья.
 Вы уверены, что хотите продолжить?</string>
   <!--Chat Fragment-->
   <string name="attachment_photo">Прикрепить фото</string>
@@ -82,7 +82,7 @@
   <!--Left Pane Fragment-->
   <string name="titles_recent">Недавние</string>
   <string name="titles_contacts">Контакты</string>
-  <string name="titles_settings">Настройки</string>
+  <string nam, e="titles_settings">Настройки</string>
   <!--Misc-->
   <string name="button_confirm">Подтвердить</string>
   <string name="button_cancel">Отмена</string>
